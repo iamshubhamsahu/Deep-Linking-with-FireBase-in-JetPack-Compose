@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343814938150",
+    "project_id": "deep-linking-with-jetpack",
+    "storage_bucket": "deep-linking-with-jetpack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343814938150:android:dab3c2052f58595d13d0e7",
+        "android_client_info": {
+          "package_name": "com.example.deeplinkingwithjetpackcompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343814938150-urcvoe59u23qc7doii0omu81gqq26me7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKqII4fK3HEWEG7mfwpRZkvGwpIFsLdmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343814938150-urcvoe59u23qc7doii0omu81gqq26me7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
